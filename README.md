@@ -34,3 +34,10 @@
 <a href="https://vk.com/jdem_radocty"><img src="https://w7.pngwing.com/pngs/110/781/png-transparent-Кукольные-домики-toygo-nha-trang-social-media-vkontakte-computer-icons-social-media-angle-text-logo.png" height="23"/></a>
 
 <a href="t.me/Ivanko_Ebanko"><img src="https://otradakhb.ru/templates/otrada/images/telegram.jpg" height="23"/></a>
+
+<h2>Stats</h2>
+
+<div align="center">
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=VaniLb&show_icons=true&count_private=true&theme=codeSTACKr&bg_color=0d1117&border_color=30363d"/>
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app//api/top-langs/?username=VaniLb&layout=compact&theme=codeSTACKr&border_color=30363d&bg_color=0d1117"/>
+</div>
