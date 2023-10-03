@@ -30,10 +30,9 @@
 ---
 
 <h2>Connect with me</h2>
-
-<a href="https://vk.com/jdem_radocty"><img src="https://w7.pngwing.com/pngs/110/781/png-transparent-Кукольные-домики-toygo-nha-trang-social-media-vkontakte-computer-icons-social-media-angle-text-logo.png" height="23"/></a>
-
-<a href="t.me/Ivanko_Ebanko"><img src="https://otradakhb.ru/templates/otrada/images/telegram.jpg" height="23"/></a>
+<a href="https://vk.com/jdem_radocty" target="_blank"><img src="https://img.shields.io/badge/VKontakte-0088cc?logo=vk&logoColor=white"/></a>
+<a href="t.me/Ivanko_Ebanko" target="_blank"><img src="https://img.shields.io/badge/telegram-0088cc?logo=telegram&logoColor=white"/></a>
+<a href="https://discordapp.com/users/561579201552187392/" target="_blank"><img src="https://img.shields.io/badge/discord-5865F2?logo=discord&logoColor=white"/></a>
 
 <h2>Stats</h2>
 
