@@ -7,7 +7,7 @@
 - 💻 Learning Python, С++
 - 👀 Studying new technologies
 - 🐾 I strive to get into DataScience
-
+- <a href="https://leetcode.com/VaniLb" target="_blank">Im on LeetCode</a> 
 <h2>Languages</h2>
 
 <div>
