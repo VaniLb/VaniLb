@@ -1,4 +1,4 @@
-<h1 align="center">Hi everyone, I'm <a href="https://t.me/PythonBlog_GuSlan" target="_blank">Ivan</a> 
+<h1 align="center"><a href="https://t.me/PythonBlog_GuSlan" target="_blank">Hi everyone, I'm Ivan</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&width=435&lines=I%60m+computer+genius.+.+.;maybe)" alt="Typing SVG" /></a>
 
