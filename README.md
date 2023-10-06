@@ -2,13 +2,14 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&width=435&lines=I%60m+computer+genius.+.+.;maybe)" alt="Typing SVG" /></a>
 
-<h2> | About me</h2>
+<h2>📋 | About me</h2>
 
-- 💻 Learning Python, С++
-- 👀 Studying new technologies
-- 🐾 I strive to get into DataScience
-- <a href="https://leetcode.com/VaniLb" target="_blank">Im on LeetCode</a> 
-<h2> | Languages</h2>
+- Learning Python, С++
+- More than 2 years of development experience
+- Studying new technologies
+- I strive to get into DataScience
+- <a href="https://leetcode.com/VaniLb" target="_blank">ImOn<b>LeetCode</b></a> 
+<h2>🔤 | Languages</h2>
 
 <div>
   <a href="https://www.python.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/></a>&nbsp;
@@ -27,16 +28,16 @@
   <a href=""><img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="c" alt="c" width="40" height="40"/></a>&nbsp;
 </div>
 
----
-
-<h2>🫶 | Connect with me</h2>
-<a href="https://vk.com/jdem_radocty" target="_blank"><img src="https://img.shields.io/badge/VKontakte-0088cc?logo=vk&logoColor=white"/></a>
-<a href="t.me/Ivanko_Ebanko" target="_blank"><img src="https://img.shields.io/badge/telegram-0088cc?logo=telegram&logoColor=white"/></a>
-<a href="https://discordapp.com/users/561579201552187392/" target="_blank"><img src="https://img.shields.io/badge/discord-5865F2?logo=discord&logoColor=white"/></a>
-
 <h2>💫 | My Stats:</h2>
 
 <div align="center">
   <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=VaniLb&show_icons=true&count_private=true&theme=codeSTACKr&bg_color=0d1117&border_color=30363d"/>
   <img height="180" src="https://github-readme-stats-sigma-five.vercel.app//api/top-langs/?username=VaniLb&layout=compact&theme=codeSTACKr&border_color=30363d&bg_color=0d1117"/>
 </div>
+
+---
+
+<h2>💌 | Connect with me</h2>
+<a href="https://vk.com/jdem_radocty" target="_blank"><img src="https://img.shields.io/badge/VKontakte-0088cc?logo=vk&logoColor=white"/></a>
+<a href="t.me/Ivanko_Ebanko" target="_blank"><img src="https://img.shields.io/badge/telegram-0088cc?logo=telegram&logoColor=white"/></a>
+<a href="https://discordapp.com/users/561579201552187392/" target="_blank"><img src="https://img.shields.io/badge/discord-5865F2?logo=discord&logoColor=white"/></a>
