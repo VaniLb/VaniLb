@@ -8,7 +8,7 @@
 - More than 2 years of development experience
 - Studying new technologies
 - I strive to get into DataScience
-- <a href="https://leetcode.com/VaniLb" target="_blank">ImOn<b>LeetCode</b></a> 
+- <a href="https://leetcode.com/VaniLb" target="_blank">My<b>LeetCode</b>Account</a> 
 <h2>🔤 | Languages</h2>
 
 <div>
