@@ -22,9 +22,8 @@
 <h2>🐾 | Studying</h2>
 
 <div>
-  <a href=""><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="Html" alt="Html" width="40" height="40"/></a>&nbsp;
+  <a href=""><img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="tensorflow" alt="tensorflow" width="40" height="40"/></a>&nbsp;
   <a href=""><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/></a>&nbsp;
-  <a href=""><img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="django" alt="django" width="40" height="40"/></a>&nbsp;
   <a href=""><img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="c" alt="c" width="40" height="40"/></a>&nbsp;
 </div>
 
