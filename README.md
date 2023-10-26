@@ -9,7 +9,7 @@
 - Studying new technologies
 - I strive to get into DataScience
 - <a href="https://leetcode.com/VaniLb" target="_blank">My<b>LeetCode</b>Account</a> 
-<h2>🔤 | Languages</h2>
+<h2>🔤 | Tools</h2>
 
 <div>
   <a href="https://www.python.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/></a>&nbsp;
